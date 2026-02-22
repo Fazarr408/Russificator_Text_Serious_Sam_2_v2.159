@@ -1,4 +1,3 @@
-# Russificator_Text_Serious_Sam_2_v2.159
 Русификатор текста для Serious Sam 2 без русской озвучки.
 
 Инструкция по установке русификатора для Serious Sam 2
